@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=rmffmpeg
+name=Remove FFmpeg Media Codec
+version=beta-v0.1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Innfinite4evr
+description=A small magisk module to comment out FFmpeg media codec in media_codecs.xml and replace media_codecs_ffmpeg.xml with a dummy file. (Note: This cannot be undone. You need to flash rom again to bring it back. )
 template=4
